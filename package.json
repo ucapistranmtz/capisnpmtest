@@ -1,6 +1,6 @@
 {
   "name": "@ucapistranmtz/capisnpmtest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "helloworld!",
   "main": "index.js",
   "publishConfig": {
