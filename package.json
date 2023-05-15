@@ -1,7 +1,7 @@
 {
-  "name": "@ucapistranmtz/capisnpmtest",
+  "name": "@capis/capisnpmtest",
   "version": "1.0.2",
-  "description": "",
+  "description": "helloworld!",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@ucapistranmtz"
@@ -24,5 +24,6 @@
   "homepage": "https://github.com/ucapistranmtz/capisnpmtest#readme",
   "dependencies": {
     "jest": "^29.5.0"
-  }
+  },
+  "devDependencies": {}
 }
